@@ -52,3 +52,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 Ensure you have Python installed along with the required libraries mentioned in the installation section.
 
 🏆 Let's dive into the excitement of the Cricket World Cup together! Enjoy predicting and may the best team win! 🌐🏏
+
+## 🙏 Acknowledgments
+Special thanks to PwSkills for providing the Cricket World Cup data.
+Inspiration for this project came from the love of cricket and the desire to explore machine learning in sports predictions.
