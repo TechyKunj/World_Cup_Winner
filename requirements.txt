@@ -1,0 +1,8 @@
+python
+sklearn
+gunicorn==20.1.0
+extract-wc-data
+pandas
+numpy
+matplotlib
+seaborn
