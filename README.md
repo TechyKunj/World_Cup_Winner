@@ -37,9 +37,6 @@ This project takes you through a fascinating journey:
 ## Contribution Guidelines 🤝
 Ready to contribute? Awesome! Your ideas and improvements are more than welcome. Create a pull request and let's make this project even better. Please follow the coding standards and ensure thorough documentation.
 
-## Licensing 📜
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for personal or commercial purposes.
-
 ## Running the Project 🏃
 1. Execute the provided code to train the machine learning model.
 2. Use the `predict_single_match` function to predict specific match outcomes. Example:
